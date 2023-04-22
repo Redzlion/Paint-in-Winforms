@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "winforml1/1.0.0": {
+        "runtime": {
+          "winforml1.dll": {}
+        },
+        "resources": {
+          "pl-PL/winforml1.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "pl/winforml1.resources.dll": {
+            "locale": "pl"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "winforml1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
